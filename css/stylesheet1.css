@@ -19,8 +19,6 @@
     display: block;
     height: 100%;
     width: 100%;
-    outline-offset: 0.1rem;
-    transition: 0.5s ease-in-out;
 }
 
 img {
